@@ -10,13 +10,11 @@ It creates **depth and realistic animation effects** on web pages.
 
 # 3D Axes in CSS
 
-![Image](https://cms-assets.tutsplus.com/cdn-cgi/image/width%3D630/uploads/users/1438/posts/27134/image/3d-plane.jpg)
 
-![Image](https://codesweetly.com/_astro/cartesian-coordinate-system-three-dimensional-diagram-codesweetly.D2iq30Vn_1syqpQ.webp)
 
 ![Image](https://cdn-images-1.medium.com/max/1600/0%2AbxMneFPF6loTMIlI.png)
 
-![Image](https://www.w3.org/Talks/2012/0913-CSS-Amsterdam/demo-transforms/3d_axes.jpg)
+
 
 ### Axes Explanation
 
@@ -34,7 +32,7 @@ It creates **depth and realistic animation effects** on web pages.
 
 Rotates the element **along the X-axis** (tilting forward/backward).
 
-![Image](https://codesweetly.com/_astro/cartesian-coordinate-system-three-dimensional-diagram-codesweetly.D2iq30Vn_1syqpQ.webp)
+
 
 ![Image](https://www.frontend.fyi/article-images/perspective.webp)
 
@@ -64,7 +62,6 @@ Rotates the element **along the Y-axis** (left/right rotation).
 
 ![Image](https://assets.htmlgoodies.com/uploads/2021/04/ss_transform.png)
 
-![Image](https://codesweetly.com/_astro/cartesian-coordinate-system-three-dimensional-diagram-codesweetly.D2iq30Vn_1syqpQ.webp)
 
 ![Image](https://codescracker.com/css/images/css-rotatey-example.jpg)
 
@@ -112,7 +109,7 @@ The element **spins like a wheel**.
 
 Moves the element **towards or away from the viewer**.
 
-![Image](https://assets.digitalocean.com/articles/alligator/css/translatez-and-perspective/z-axis.png)
+
 
 ![Image](https://assets.digitalocean.com/articles/alligator/css/translatez-and-perspective/user-and-laptop-translatez.png)
 
@@ -182,3 +179,4 @@ This creates a **3D rotating box effect**.
 **CSS 3D transforms allow elements to move and rotate in three-dimensional space for advanced visual effects.**
 
 ---
+
