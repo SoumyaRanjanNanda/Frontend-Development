@@ -19,12 +19,6 @@ Examples of states:
 * visited
 * focus
 
-![Image](https://tutorial.techaltum.com/images/css-before-after.jpg)
-
-![Image](https://iq.opengenus.org/content/images/2020/11/Image_1.png)
-
-![Image](https://19898180.fs1.hubspotusercontent-na1.net/hubfs/19898180/2024/blog%20image/css/How%20to%20Style%20Links/How%20to%20Style%20Links_%20Hover%2C%20Focus%2C%20and%20Active%20States.jpg)
-
 ![Image](https://s1.o7planning.com/web-rs/web-image/en/arf-1155628-vi.gif)
 
 ---
@@ -62,13 +56,9 @@ A **Pseudo-element** is used to **style a specific part of an element**.
 
 It is written using **`::` (double colon)**.
 
-![Image](https://cdn.hashnode.com/res/hashnode/image/upload/v1605187166481/YcU2uf4SA.png)
-
-![Image](https://ayc0.github.io/_astro/css-before-after-hover.D0PxOjqI_V89Py.webp)
 
 ![Image](https://static.d-libro.com/01-course-content-images/1011-11-HTML-CSS-Coding-with-AI/030-topic-og-images/pseudo-elements-in-css-id101111040310.png)
 
-![Image](https://www.w3docs.com/uploads/media/default/0001/03/2c23d36c4972e7b5b815229efea812d5b9f18ab4.png)
 
 ---
 
@@ -133,3 +123,4 @@ Result:
 **Pseudo-classes style element states, while pseudo-elements style specific parts of elements.**
 
 ---
+
