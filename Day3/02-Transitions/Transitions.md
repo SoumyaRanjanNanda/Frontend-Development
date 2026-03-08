@@ -17,9 +17,6 @@ With transition → change happens **smoothly**
 
 ![Image](https://joshcollinsworth.com/images/post_images/great-transitions.png)
 
-![Image](https://www.joshwcomeau.com/images/css-transitions/easings-net.png)
-
-![Image](https://prismic-main.cdn.prismic.io/prismic-main/Z1kre5bqstJ98SVB_css.svg)
 
 ---
 
@@ -134,6 +131,7 @@ When hovering → **box grows smoothly**.
 **CSS transitions create smooth animations when a property changes.**
 
 ---
+
 
 
 
