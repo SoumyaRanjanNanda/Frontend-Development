@@ -83,13 +83,11 @@ The element **rotates sideways**.
 
 Rotates the element **around the Z-axis** (normal 2D rotation).
 
-![Image](https://codesweetly.com/_astro/cartesian-coordinate-system-three-dimensional-diagram-codesweetly.D2iq30Vn_1syqpQ.webp)
-
 ![Image](https://codesweetly.com/_astro/cartesian-coordinate-system-three-dimensional-diagram-codesweetly.D2iq30Vn_ZLrLlL.webp)
 
 ![Image](https://raw.githubusercontent.com/Codecademy/docs/main/media/css-rotateZ.png)
 
-![Image](https://codesweetly.com/og/css-rotatez-function.png)
+
 
 ### Example
 
@@ -115,7 +113,7 @@ Moves the element **towards or away from the viewer**.
 
 ![Image](https://raw.githubusercontent.com/Codecademy/docs/main/media/css-translateZ-pos.png)
 
-![Image](https://codesweetly.com/_astro/cartesian-coordinate-system-three-dimensional-diagram-codesweetly.D2iq30Vn_1syqpQ.webp)
+
 
 ### Example
 
@@ -179,4 +177,5 @@ This creates a **3D rotating box effect**.
 **CSS 3D transforms allow elements to move and rotate in three-dimensional space for advanced visual effects.**
 
 ---
+
 
