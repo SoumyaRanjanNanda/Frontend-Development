@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Roboto+Slab:wght@100..900&display=swap');
+
+*{
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+html,body{
+
+    font-family: "Dancing Script", cursive;
+    font-size: 1em;
+}
+
+h1{
+
+font-size:60px;
+
+}
+
+p{
+font-size:30px;
+
+}
+
+
+.neon-title{
+font-size:60px;
+color:#fff;
+
+text-shadow:
+0 0 5px rgb(177, 143, 143),
+0 0 10px rgb(177, 143, 143),
+0 0 20px rgb(177, 143, 143),
+0 0 40px rgb(177, 143, 143),
+0 0 80px rgb(177, 143, 143);
+}
+
+.neon-subtitle{
+font-size:30px;
+color:#fff;
+
+text-shadow:
+0 0 5px #a77ba7,
+0 0 10px #a77ba7,
+0 0 20px #a77ba7,
+0 0 40px #a77ba7;
+}
+
+
+
+.container{
+    min-height: 100vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 10px;
+    color: white;
+    background-image: linear-gradient(to right ,rgb(146, 61, 61),rgb(177, 143, 143));
+    
+   
+    
+}
+
+.box:hover{
+
+background-color: aliceblue;
+background-position: bottom;
+}
+
+.box{
+
+border-radius: 10px;
+background-color: rgb(196, 165, 165);
+background-blend-mode: multiply;
+transition: all ease-in-out 1s;
+
+}
+
+#box-1{
+
+    grid-row: span 4;
+    background-image: url(https://images.pexels.com/photos/4045599/pexels-photo-4045599.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-size: cover;
+    
+}
+
+#box-2{
+
+    background-image: url(https://images.pexels.com/photos/4505449/pexels-photo-4505449.jpeg);
+    background-size: cover;
+    
+}
+
+#box-3{
+
+    background-image: url(https://images.pexels.com/photos/4154191/pexels-photo-4154191.jpeg);
+    background-size: cover;
+    grid-row: span 2;
+
+}
+
+#box-4{
+
+    background-image: url(https://images.pexels.com/photos/4056535/pexels-photo-4056535.jpeg);
+    background-size: cover;
+    
+    grid-row:span 2;
+    
+}
+
+#box-5{
+
+    background-image: url(https://images.pexels.com/photos/4571219/pexels-photo-4571219.jpeg);
+    background-size: cover;
+}
+
+#box-6{
+
+    background-image: url(https://images.pexels.com/photos/3775153/pexels-photo-3775153.jpeg);
+     grid-column: span 2;
+     background-size: cover;
+     background-position: center;
+    
+     
+   
+}
+
+.left-side{
+
+    text-align: center;
+flex-basis: 30%;
+}
+
+.right-side{
+flex-basis: 50%;
+display: grid;
+grid-template-columns: repeat(3,1fr);
+gap: 5px;
+grid-auto-rows: 120px;
+}
+
+
